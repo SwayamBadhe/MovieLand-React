@@ -4,6 +4,10 @@
 
 Movie Land is a React application designed to facilitate movie discovery using the OMDb API. It allows users to search for movies based on titles and provides detailed information about the retrieved results.
 
+## Deployed APP
+```
+https://reactjs-movie-land.netlify.app
+```
 ## Features
 
 - **Search Movies:** Users can input movie titles to search for relevant information.
